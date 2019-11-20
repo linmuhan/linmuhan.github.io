@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.linmuhan.top/2019/11/13/JDBC%E5%B8%B8%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7%E7%B1%BB%EF%BC%88Mysql%E4%B8%8ESql%20server%EF%BC%89/</loc>
-    <lastmod>2019-11-19</lastmod>
-  </url>  <url>
     <loc>http://www.linmuhan.top/2019/11/19/Spring%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8BIOC_DI/</loc>
-    <lastmod>2019-11-19</lastmod>
+    <lastmod>2019-11-20</lastmod>
+  </url>  <url>
+    <loc>http://www.linmuhan.top/2019/11/13/JDBC%E5%B8%B8%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7%E7%B1%BB%EF%BC%88Mysql%E4%B8%8ESql%20server%EF%BC%89/</loc>
+    <lastmod>2019-11-20</lastmod>
   </url>  <url>
     <loc>http://www.linmuhan.top/2019/11/14/request.getServletContext().getContextPath()%E7%9A%84%E8%BF%94%E5%9B%9E%E5%80%BC/</loc>
     <lastmod>2019-11-14</lastmod>
